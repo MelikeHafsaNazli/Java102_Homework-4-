@@ -53,3 +53,6 @@ Patika ekibi elektronik eşyaların satıldığı bir sanal bir mağaza açmaya 
 * Kullanıcı ürünleri benzersiz numaralarına göre silebilmeli.
 
 * Kullanıcı ürünlerin benzersiz numaralarına ve markalarına göre filtreleyip listeleyebilmeli.
+
+#### Patika.dev Linki: https://app.patika.dev/melikehafsa
+
